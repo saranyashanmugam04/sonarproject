@@ -1,6 +1,6 @@
-package Pack;
+package pack;
 
-public class calculation {
+public class Calculation {
 	
 	int firstNumber;
 	int secondNumber;
