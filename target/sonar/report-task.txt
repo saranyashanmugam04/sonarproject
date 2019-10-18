@@ -1,0 +1,6 @@
+projectKey=Project1:AdderProject
+serverUrl=http://localhost:9000
+serverVersion=6.5.0.27846
+dashboardUrl=http://localhost:9000/dashboard/index/Project1:AdderProject
+ceTaskId=AW3dg1FUMJCKqXU-wudG
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AW3dg1FUMJCKqXU-wudG
